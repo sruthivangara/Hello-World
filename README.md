@@ -1,2 +1,2 @@
-# hello-world
-my helloworld program
+# Hello-World
+Hello World program
